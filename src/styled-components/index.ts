@@ -1,1 +1,6 @@
-export * from './Title'
+export * from './Card'
+export * from './Image'
+export * from './Info'
+export * from './Header'
+export * from './Paragraph'
+export * from './Button'
